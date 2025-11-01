@@ -1,0 +1,54 @@
+{
+  "weatherHistory": [
+    {
+      "id": 1269843,
+      "city": "Hyderabad",
+      "temp": 24.23,
+      "description": "haze",
+      "icon": "50n",
+      "time": "1/11/2025, 10:09:41 pm"
+    },
+    {
+      "id": 1270668,
+      "city": "Guntur",
+      "temp": 25.3,
+      "description": "clear sky",
+      "icon": "01n",
+      "time": "1/11/2025, 10:09:59 pm"
+    },
+    {
+      "id": 1270668,
+      "city": "Guntur",
+      "temp": 25.3,
+      "description": "clear sky",
+      "icon": "01n",
+      "time": "1/11/2025, 10:14:21 pm"
+    },
+    {
+      "id": 1270668,
+      "city": "Guntur",
+      "temp": 25.3,
+      "description": "clear sky",
+      "icon": "01n",
+      "time": "1/11/2025, 10:14:48 pm"
+    },
+    {
+      "id": 1270668,
+      "city": "Guntur",
+      "temp": 25.3,
+      "description": "clear sky",
+      "icon": "01n",
+      "time": "1/11/2025, 10:15:42 pm"
+    }
+  ],
+  "defaultLocation": [
+    {
+      "city": "Guntur",
+      "temp": 25.3,
+      "description": "clear sky",
+      "icon": "01n",
+      "time": "1/11/2025, 10:10:03 pm",
+      "id": "1"
+    }
+  ]
+}
